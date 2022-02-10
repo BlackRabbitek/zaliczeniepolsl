@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/black/CLionProjects/zaliczenie/functions.cpp
+header.h
+C:/Users/black/CLionProjects/zaliczenie/header.h
+
+C:/Users/black/CLionProjects/zaliczenie/header.h
+iostream
+-
+string
+-
+Windows.h
+-
+fstream
+-
+vector
+-
+

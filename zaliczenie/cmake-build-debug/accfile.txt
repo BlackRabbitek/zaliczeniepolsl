@@ -1,0 +1,5 @@
+admin;admin;Admin;3;
+rec;rec;Recepcja;2;
+prac;prac;Pracownik;1;
+kuba;123;Kuba;2;
+haha;haha;haha;3;
